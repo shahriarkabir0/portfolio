@@ -110,3 +110,10 @@ filter: brightness(10%);
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+p {
+    display: block;
+    margin-block-start: 1.5em;
+    margin-block-end: 1.5em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
